@@ -11,7 +11,7 @@ If you want to write code with me, you can contact me for internal promotion.
 - 🔭 I’m currently working on [万店掌](https://www.ovopark.com/)
 - 📫 How to reach me: ```🐧1240235512``` ```🛰️Gy1240235512``` ```📪gumingchen@foxmail.com```
 - 🌏 How to follow me: [Github](https://github.com/gmingchen) [Gitee](https://gitee.com/shychen) [掘金](https://juejin.cn/user/4103845398710846) [简书](https://www.jianshu.com/u/81a5a02678d3)
-- ❤️ I like playing 🎮, sleeping in 🛌 and coding 👨‍💻 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
+- ❤️ I like playing 🎮, sleeping in 🛌 and coding 👨‍💻.
 
 #### Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
