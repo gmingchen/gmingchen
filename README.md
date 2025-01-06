@@ -13,6 +13,9 @@ If you want to write code with me, you can contact me for internal promotion.
 - 🌏 How to follow me: [Github](https://github.com/gmingchen) [Gitee](https://gitee.com/shychen) [掘金](https://juejin.cn/user/4103845398710846) [简书](https://www.jianshu.com/u/81a5a02678d3)
 - ❤️ I like playing 🎮, sleeping in 🛌 and coding 👨‍💻.
 
+If you want to join my WeChat technical exchange group, you can scan the QR code below to add me as a friend and add you to the group.
+<img height="20" src="https://admin.gumingchen.icu/file/static/wechat-qr-code-1.jpg" alt="css" />
+
 #### Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
