@@ -15,10 +15,10 @@ If you want to write code with me, you can contact me for internal promotion.
 
 If you want to join my WeChat technical exchange group, you can scan the QR code below to add me as a friend and add you to the group.
 
-<img height="200" src="http://admin.gumingchen.icu/file/static/wechat-qr-code-1.jpg?time=1" alt="css" />
+<img height="200" src="https://admin.gumingchen.icu/file/static/wechat-qr-code.jpg" alt="css" />
 
 #### Languages
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>f
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
