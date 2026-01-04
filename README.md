@@ -10,7 +10,7 @@ If you want to write code with me, you can contact me for internal promotion.
 
 - 🔭 I’m currently working on [万店掌](https://www.ovopark.com/)
 - 📫 How to reach me: ```🐧1240235512``` ```🛰️Gy1240235512``` ```📪gumingchen@foxmail.com```
-- 🌏 How to follow me: [Github](https://github.com/gmingchen) [Gitee](https://gitee.com/shychen) [掘金](https://juejin.cn/user/4103845398710846) [简书](https://www.jianshu.com/u/81a5a02678d3)
+- 🌏 How to follow me: [Github](https://github.com/gmingchen) [Gitee](https://gitee.com/shychen) [掘金](https://juejin.cn/user/4103845398710846) [CSDN](https://blog.csdn.net/qq_40230003) [简书](https://www.jianshu.com/u/81a5a02678d3)
 - ❤️ I like playing 🎮, sleeping in 🛌 and coding 👨‍💻.
 
 If you want to join my WeChat technical exchange group, you can scan the QR code below to add me as a friend and add you to the group.
